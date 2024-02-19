@@ -22,14 +22,14 @@ public class SwaggerConfig {
 						.description("Projeto Blog Pessoal - Generation Brasil")
 						.version("v0.0.1")
 						.license(new License()
-								.name("Bianca Akemi")
-								.url("https://github.com/BiaAkemi"))
+								.name("Jefferson Felix")
+								.url("https://github.com/Jeffersonfelizx"))
 						.contact(new Contact()
-								.name("Bianca Akemi")
-								.url("https://www.linkedin.com/in/bianca-akemi/")
-								.email("beancaakemi@gmail.com")))
+								.name("Jefferson Felix")
+								.url("https://github.com/Jeffersonfelizx")
+								.email("jeffersonfelixz@outlook.com")))
 				.externalDocs(new ExternalDocumentation().description("Github")
-						.url("https://github.com/BiaAkemi"));
+						.url("https://github.com/Jeffersonfelizx"));
 	}
 
 	@Bean
